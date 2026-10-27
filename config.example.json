@@ -1,0 +1,7 @@
+{
+  "spotify_client_id": "your_client_id",
+  "spotify_client_secret": "your_client_secret",
+  "apple_team_id": "YOUR_TEAM_ID",
+  "apple_key_id": "YOUR_KEY_ID",
+  "apple_p8_path": "C:\\path\\to\\AuthKey_XXXX.p8"
+}
